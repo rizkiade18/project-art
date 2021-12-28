@@ -22,7 +22,7 @@
                         <thead>
                             <tr>
                                 <th>No</th>
-                                <th>Gambar</th>
+                                <th>Foto</th>
                                 <th>Nama Barang</th>
                                 <th>Jumlah</th>
                                 <th>Harga</th>
